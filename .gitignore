@@ -1,0 +1,6 @@
+*.wav
+*.ogg
+*.mp3
+*.whl
+*.pyc
+__pycache__/
